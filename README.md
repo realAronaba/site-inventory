@@ -1,0 +1,2 @@
+# site-inventory
+For training 
