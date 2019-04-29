@@ -1,2 +1,2 @@
 # site-inventory
-For training 
+For training Ansible
